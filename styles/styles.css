@@ -1,0 +1,32 @@
+#contForNav {
+    position: absolute !important;
+    top: 0px;
+    width: 100%;
+    padding: 0px !important;
+}
+
+nav {
+    margin: 1em !important;
+    border-radius: 0.5em;
+}
+
+footer {
+    text-align: center;
+}
+
+#scrollDiv {
+    position: relative;
+    height: 350px;
+    overflow-y: scroll;
+}
+
+h4 {
+    margin: 1em;
+    text-align: center;
+}
+#myTab {
+    font-size: small;
+}
+/*body {*/
+/*    position: relative;*/
+/*}*/
